@@ -1,4 +1,9 @@
-# Aneris
-OGL game
+#Caro Game
+#Author: Tri Nguyen, Juho
+Personal Project
 
-Remember to save scene before push
+Making a simple Caro game on Unity
+
+Goal: can be played online
+
+
